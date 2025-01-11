@@ -12,9 +12,9 @@
     "socket.io": "^4.0.0",
     "pg": "^8.0.0"
   },
-  "devDependencies": {
-    "babel/plugin-proposal-private-property-in-object"
-  },
+"devDependencies": {
+  "@babel/plugin-proposal-private-property-in-object": "^7.14.5"
+}
   "engines": {
     "node": "14.x"
   }
