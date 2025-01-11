@@ -13,7 +13,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "^5.0.0",
-    "simple-keyboard": "^3.0.0",
+    "react-simple-keyboard": "^3.8.0",
     "socket.io-client": "^4.0.0",
     "@mui/material": "^5.0.0"
   },
